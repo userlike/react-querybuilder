@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2016 Sapient Global Markets
+Copyright (c) 2025 Userlike UG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--
+
+This is a fork of @react-querybuilder/chakra-ui, based on the original project available at:
+https://github.com/react-querybuilder/react-querybuilder/tree/v6
+
+Changes made in this fork include:
+
+- Replaces @chakra-ui/_ imports with @chakra-v2/_ imports.
